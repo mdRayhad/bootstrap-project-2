@@ -1,0 +1,41 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    /* navbar-start */
+    
+    .navbar {
+        background: #fff;
+        box-shadow: 2px 2px 5px gray;
+        opacity: .8;
+    }
+    
+    .nav-link {
+        font-size: 20px;
+        margin-right: 20px;
+        color: black;
+        font-weight: 500;
+        ;
+    }
+    
+    .nav-link:hover {
+        color: #fb5200 !important;
+    }
+    /* navbar-end */
+    /* Home-section-start */
+    
+    #home-section {
+        background: url('../img/mountains.jpg');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
+    .color-overly {
+        background: rgba(0, 0, 0, 0.7);
+    }
+    /* Home-section-end */
+    /* Submit-section-start */
+    /* Submit-section-end */
